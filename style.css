@@ -1,0 +1,18 @@
+/* Change background color */
+body {
+    background-color: #f4f4f427;
+}
+
+/* Style heading */
+h1 {
+    color: #633402;
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+/* Style paragraphs */
+p {
+    color: #000000;
+    font-family: "Times New Roman", serif;
+    padding: 22px; 
+}
