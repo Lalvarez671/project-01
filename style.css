@@ -17,3 +17,13 @@ p {
     font-family: "Times New Roman", serif;
     padding: 22px; 
 }
+
+/* Style div */
+div {
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    padding: 25px;
+    background-color: aliceblue;
+    border: 5px solid black; 
+}   
