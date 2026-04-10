@@ -1,6 +1,6 @@
 /* Change background color */
 body {
-    background-color: #555105;
+    background-color: #faf485;
     margin: 20px;
 }
 
@@ -13,7 +13,7 @@ h1 {
 
 /* Style paragraphs */
 p {
-    color: #333333; 
+    color: #111111; 
     font-family: "Times New Roman", serif;
     padding: 22px; 
 }
