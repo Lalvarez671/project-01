@@ -1,6 +1,7 @@
 /* Change background color */
 body {
-    background-color: #f4f4f427;
+    background-color: #555105;
+    margin: 20px;
 }
 
 /* Style heading */
@@ -12,7 +13,7 @@ h1 {
 
 /* Style paragraphs */
 p {
-    color: #000000;
+    color: #333333; 
     font-family: "Times New Roman", serif;
     padding: 22px; 
 }
